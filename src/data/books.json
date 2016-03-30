@@ -1,0 +1,14 @@
+{
+	"Zero to One" : {
+		"title": 	"Zero to One",
+		"dateRead":	"Feb 21, 2016",
+		"picture":	"",
+		"summary":	"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis interdum enim. Integer lacus tortor, maximus vitae lacus iaculis, imperdiet blandit massa. Ut nisi nulla, pharetra nec ex eu, fringilla pharetra lacus. Morbi non dapibus neque. Donec auctor nisl in tellus posuere euismod."
+	},
+	"Personal MBA" : {
+		"title":		"Personal MBA",
+		"dateRead":		"Feb 29, 2016",
+		"picture":		"",
+		"summary":		"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis interdum enim. Integer lacus tortor, maximus vitae lacus iaculis, imperdiet blandit massa. Ut nisi nulla, pharetra nec ex eu, fringilla pharetra lacus. Morbi non dapibus neque. Donec auctor nisl in tellus posuere euismod."
+	}
+}
